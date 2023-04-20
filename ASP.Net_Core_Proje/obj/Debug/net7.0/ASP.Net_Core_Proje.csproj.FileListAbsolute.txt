@@ -560,3 +560,7 @@ C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\obj\Debug\net7.0\s
 C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\obj\Debug\net7.0\ASP.Net_Core_Proje.csproj.CopyComplete
 C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\obj\Debug\net7.0\ASP.Net_Core_Proje.genruntimeconfig.cache
 C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\obj\Debug\net7.0\ref\ASP.Net_Core_Proje.dll
+C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\obj\Debug\net7.0\ASP.Net_Core_Proje.MvcApplicationPartsAssemblyInfo.cs

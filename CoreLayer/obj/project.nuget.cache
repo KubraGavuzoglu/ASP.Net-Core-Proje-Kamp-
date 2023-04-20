@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xov6KyY/Vv84Jg/S3Z4JeAxiWeAzum3zOUYVSct33+XH91vJfIdhdwJJqvmwRjv13K+tO9f62DVxJ3XbmzqqkQ==",
+  "dgSpecHash": "VmKgjdA8KfaFfwk8ZxGcNqSh7295IcBpeLYMHeMG9BdeHvJuECDwJ6XJt4Hf2bjtj83Yor/yPZY4qlkJCCY7QQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\Desktop\\Asp.Net Proje Kampı\\CoreLayer\\CoreLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

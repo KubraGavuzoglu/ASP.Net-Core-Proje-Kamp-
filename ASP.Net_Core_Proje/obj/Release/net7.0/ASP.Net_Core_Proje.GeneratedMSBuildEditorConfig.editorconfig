@@ -9,41 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASP.Net_Core_Proje
 build_property.RootNamespace = ASP.Net_Core_Proje
-build_property.ProjectDir = C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\ASP.Net_Core_Proje\
+build_property.ProjectDir = C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje\ASP.Net_Core_Proje
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Asp.Net Proje Kampı\ASP.Net_Core_Proje
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/Home/Index.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Blog/BlogReadAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Comment/CommentListByBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TGlzdEJ5QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Comment/PartialAdComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/Home/Privacy.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/Home/Test.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Home/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/Shared/Error.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Components/CategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Components/CommentListByBlog/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RCeUJsb2dcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Components/CommentList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Partial1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Partial2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/Partial3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/_ViewImports.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/_ViewStart.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/ASP.Net_Core_Proje/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/Desktop/Asp.Net Proje Kampı/ASP.Net_Core_Proje/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5cgjs2nejs
