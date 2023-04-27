@@ -30,5 +30,8 @@ namespace ASP.Net_Core_Proje.ViewComponents
 			};
 			return View(commentvalues);
 		}
+
+
+	
 	}
 }
